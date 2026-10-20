@@ -39,7 +39,7 @@ Each topic has a dedicated directory containing its own README with explanations
 | 02 | Strings | ⏳ Not Started | [View](./DSA_Journy/02_Strings/README.md) |
 | 03 | Searching | ⏳ Not Started | [View](./DSA_Journy/03_Searching/README.md) |
 | 04 | Sorting | ⏳ Not Started | [View](./DSA_Journy/04_Sorting/README.md) |
-| 05 | Two Pointers | 🟡 In Progress | [View](./DSA_Journy/05_Two_Pointers/README.md) |
+| 05 | Two Pointers | 🟡 In Progress | [View](./DSA_Journy/05_Two_Pointers/readme.md) |
 | 06 | Sliding Window | ⏳ Not Started | [View](./DSA_Journy/06_Sliding_Window/README.md) |
 | 07 | Hashing | ⏳ Not Started | [View](./DSA_Journy/07_Hashing/README.md) |
 | 08 | Recursion and Backtracking | ⏳ Not Started | [View](./DSA_Journy/08_Recursion_and_Backtracking/README.md) |
@@ -73,7 +73,7 @@ I am learning how to use two indices to solve problems efficiently by reducing u
 |---|---|---|---|---|
 | 01 | Pair Sum in a Sorted Array | Opposite-direction Two Pointers | O(n) | O(1) |
 
-**Problem Documentation:** [Two Pointers — Pair Sum](./05-two-pointers/README.md)
+**Problem Documentation:** [Two Pointers — Pair Sum](./DSA_Journy/05_Two_Pointers/readme.md)
 
 ---
 
